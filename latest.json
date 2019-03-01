@@ -1,0 +1,18 @@
+[
+   {
+   "rom": "",
+   "rom_tag": "",
+   "build_type": "",
+   "version": "",
+   "build_date": "(dd/mm/yyyy)",
+   "image": "",
+   "device": "",
+   "codename": "",
+   "thread_link": "",
+   "download_link": "",
+   "developer_name": "",
+   "developer_contact": "",
+   "changelog" :"changelog.txt",
+   "group_link": ""
+    }
+]
